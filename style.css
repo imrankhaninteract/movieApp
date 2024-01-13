@@ -46,14 +46,15 @@
     border-radius: 10px 10px 0px 0px;
     left: 0;
     transition: 0.5s;
-    background-color: white;
+    background-color: rgb(146, 146, 146);
 }
 
 .box span {
-    color: orange;
+    color: rgb(255, 77, 0);
     display: inline-block;
     font-weight: bold;
     font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .title {
